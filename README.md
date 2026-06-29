@@ -4,14 +4,13 @@
 
 *Building clean, scalable, and meaningful software one commit at a time.*
 
-**👨‍💻 About Me**
-    - 🎓 Computer Science Student (Final Year)
-    - 🌾 Currently building a Smart Contract Farming Management System
-    - ⚛️ Passionate about React & TypeScript
-    - 🔥 Learning Laravel, Firebase & System Design
-    - 🌱 Exploring Blockchain Technology
-    - 🎯 Goal: Become a Professional Full Stack Developer
-    - ☕ I enjoy solving real-world problems through code
+##👨‍💻 About Me
+ - 🎓 Computer Science Student (Final Year)
+ - ⚛️ Passionate about React & TypeScript
+ - 🔥 Learning Laravel, Firebase & System Design
+ - 🌱 Exploring Blockchain Technology
+ - 🎯 Goal: Become a Professional Full Stack Developer
+ - ☕ I enjoy solving real-world problems through code
 
 **🚀 Tech Stack**
 Frontend
@@ -26,7 +25,8 @@ Database
 - MySQL
 - PostgreSQL
 - Firebase
-- 
+
+  
 Tools
 - Github
 - Postman
